@@ -1,0 +1,2 @@
+Welcome, to Story
+This is the chapter of the story of how i took my life serious by learning javascript and github learn more from chapter 2
