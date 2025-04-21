@@ -1,0 +1,1 @@
+This is the continuation of the story from chapter one i will be learning javascript for the next 3 months now and i will focus on buidling scalable backend systems using postgresSQL. Read more from chapter 3
